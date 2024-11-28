@@ -2,9 +2,8 @@
 Based on your command, you can input your DFA model and visualise the model also. After importing your DFA model, you can test the model with various test cases to see if it is correct or not.
 
 Process:
-![Sample DFA](https://example.com/path/to/image.png](https://github.com/monirulHaque/Automata-and-Computability/blob/main/Media/Lecture2/solve9.png)
-
-You can consider this image as an example.
+You can consider this image as an example. 
+https://ibb.co.com/HnRWzth
 
 1. You have to input all DFA states separated by space, like (q0 q1 q2). 
 2. Input the start state of the DFA, like (q0).
